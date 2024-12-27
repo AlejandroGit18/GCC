@@ -1,0 +1,24 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .login,
+  .image {
+    min-height: 100vh;
+  }
+  
+  .bg-image {
+    background-image: url('./IMAGEN-LOGIN-min.jpg');
+    background-size: cover;
+    background-position: center center;
+  }
+  
+  .logo {
+    max-width: 250px;
+    margin-bottom: 20px;
+  }
+
+  .btn-login{
+    width: 100%;
+  }
+  
